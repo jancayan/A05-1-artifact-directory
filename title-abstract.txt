@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Exploring Working Memory Task Predictability using fMRI Data
+
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In our quarter-one project, our group performed a first-level analysis of functional magnetic resonance imaging (fMRI) data. This consisted of analyzing brain data in a 4-dimensional array and identifying areas of significant activation. In this project, we use voxel weights generated from individual first-level analysis to train various machine learning models to classify task types based on fMRI brain imaging data. With this model, we can address gaps in neuroscience literature on whether visual working memory tasks with varying task strategies use fundamentally different neural circuitry. Furthermore, it could suggest that models are able to “read minds” of individuals under different tasks. Multivoxel pattern analysis (MVPA) is an increasingly popular method of analyzing fMRI brain imaging by retaining the information of each voxel in the brain. However, recent work on MVPA was typically limited to Support Vector Machines (SVMs). With our project, we hope to explore other popular machine learning models to classify task type, look into the interpretability of models for task fMRI classification, and explore the use of confounds within brain imaging data to build more accurate models using the full fMRI data.
+
